@@ -1,0 +1,12 @@
+#head, #head2, #head3{
+    color: brown;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.one{
+     background-color: darkgrey;
+    }
+    img{margin: auto; display: block;}
+
+figcaption{ text-align: ;}
